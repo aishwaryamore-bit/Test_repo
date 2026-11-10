@@ -1,2 +1,6 @@
 “Learning git rebase”
+
 "Introducing change on remote"
+
+Introducing change on local
+
